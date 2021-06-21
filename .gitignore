@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#exclude Data folder and model checkpoints
+**/Data
+**/Model
+
 # Distribution / packaging
 .Python
 build/
