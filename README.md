@@ -14,12 +14,15 @@ Deep CNN with residual blocks to classify Gemstones!
 
 <h3 align="center">Gemstone classification using deep CNNs with residual blocks</h3>
 
-***  <a href="https://github.com/loremendez/Gemstones">
+<!-- ![pngwing com (7)](https://user-images.githubusercontent.com/62608007/123555126-14d39e80-d784-11eb-870b-4ad3350e894a.png = 250x250)
+-->
+
+<a href="https://github.com/loremendez/Gemstones">
     <p align="center">
-      <img src="Resources/Images/sample1.jpg" width="600">
+      <img src="https://user-images.githubusercontent.com/62608007/123555126-14d39e80-d784-11eb-870b-4ad3350e894a.png" width="200">
     </p>
   </a>
-</p> ***
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
