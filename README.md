@@ -12,7 +12,7 @@ Deep CNN with residual blocks to classify Gemstones!
 <br />
 <p align="center">
 
-<h3 align="center">Gemstone classification of buildings using deep CNNs with residual blocks</h3>
+<h3 align="center">Gemstone classification using deep CNNs with residual blocks</h3>
 
 ***  <a href="https://github.com/loremendez/Gemstones">
     <p align="center">
