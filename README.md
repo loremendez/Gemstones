@@ -19,7 +19,9 @@ Deep CNN with residual blocks to classify Gemstones!
 
 <a href="https://github.com/loremendez/Gemstones">
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/62608007/123555126-14d39e80-d784-11eb-870b-4ad3350e894a.png" width="200">
+        <img src="https://user-images.githubusercontent.com/62608007/123556875-f8d4fa80-d78d-11eb-896c-3f4cb1f68f28.png" width="145">
+        <img src="https://user-images.githubusercontent.com/62608007/123556874-f672a080-d78d-11eb-925d-7aac33aa276e.png" width="145">
+        <img src="https://user-images.githubusercontent.com/62608007/123556877-fa9ebe00-d78d-11eb-857b-0329d7b809e2.png" width="145">
     </p>
   </a>
 </p>
