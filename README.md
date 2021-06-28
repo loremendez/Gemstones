@@ -51,7 +51,7 @@ Deep CNN with residual blocks to classify Gemstones!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Some nice explanation of the project here.
+Classification of gemstones using deep convolutional neural networks with residual blocks.
 
 ### Built With
 
