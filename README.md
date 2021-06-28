@@ -85,7 +85,7 @@ Anaconda. If you haven't installed Anaconda yet, you can follow the next tutoria
         conda create -n gemstones_env python=3.9
         conda activate gemstones_env
         ```
-    2. Install the needed packages
+    2. Install the required packages
         ```sh
         pip install --upgrade pip
         pip list  # show packages installed within the virtual environment
