@@ -118,5 +118,3 @@ Link: [https://www.kaggle.com/lsind18/gemstones-images](https://www.kaggle.com/l
 Lorena Mendez - [LinkedIn](https://www.linkedin.com/in/lorena-mendezg/?originalSubdomain=de) - lorena.mendez@tum.de
 
 Take a look into my [other](https://github.com/loremendez) projects!
-# Gemstones
-Gemstone Classification
