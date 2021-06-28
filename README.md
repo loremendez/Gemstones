@@ -62,12 +62,11 @@ Classification of gemstones using deep convolutional neural networks with residu
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Run the following simple steps.
 
 ### Prerequisites
 
-A running installation of Anaconda. If you haven't installed Anaconda yet, you can follow the next tutorial: <br>
-[Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
+Anaconda. If you haven't installed Anaconda yet, you can follow the next tutorial: [Anaconda Installation](https://docs.anaconda.com/anaconda/install/).
 
 ### Installation
 
@@ -83,8 +82,8 @@ A running installation of Anaconda. If you haven't installed Anaconda yet, you c
     or step by step
     1. Create and activate the environment
         ```sh
-        conda create -n arch_style python=3.9
-        conda activate arch_style
+        conda create -n gemstones_env python=3.9
+        conda activate gemstones_env
         ```
     2. Install the needed packages
         ```sh
@@ -99,7 +98,7 @@ A running installation of Anaconda. If you haven't installed Anaconda yet, you c
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Open Jupyter-lab and open the notebook [`Gemstones.ipynb`](https://github.com/loremendez/Gemstones/blob/main/Gemstones.ipynb)
+Activate the environment, open Jupyter-lab and the notebook [`Gemstones.ipynb`](https://github.com/loremendez/Gemstones/blob/main/Gemstones.ipynb)
 ```sh
 jupyter-lab
 ```
